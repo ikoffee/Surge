@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,bwh1.net,force-remote-dns
 DOMAIN-SUFFIX,cbc.ca,force-remote-dns
 DOMAIN-SUFFIX,dailymotion.com,force-remote-dns
 DOMAIN-SUFFIX,deezer.com,force-remote-dns
-
 DOMAIN-SUFFIX,duckduckgo.com,force-remote-dns
 DOMAIN-SUFFIX,feedly.com,force-remote-dns
 DOMAIN-SUFFIX,flickr.com,force-remote-dns
@@ -141,6 +140,7 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN-SUFFIX,chinamedica.com
 DOMAIN-SUFFIX,smartmailcloud.com
+DOMAIN-SUFFIX,tradingview.com
 
 # Resilio Sync
 DOMAIN-SUFFIX,resilio.com
