@@ -134,6 +134,13 @@ DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 
+# --- VOIP List ---
+DOMAIN-SUFFIX,whatsapp.com,force-remote-dns
+DOMAIN-SUFFIX,whatsapp.net,force-remote-dns
+DOMAIN-SUFFIX,mobilevoip.com,force-remote-dns
+DOMAIN-SUFFIX,12voip.com,force-remote-dns
+DOMAIN-SUFFIX,voipbuster.com,force-remote-dns
+IP-CIDR,77.177.168.0/24,no-resolve
 
 # >> Other
 DOMAIN-SUFFIX,fb.com
