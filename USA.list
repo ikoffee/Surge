@@ -1,0 +1,27 @@
+# --- My DIY List ---
+
+DOMAIN-KEYWORD,amazon
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,pandora.com
+
+# >> Dropbox
+DOMAIN-SUFFIX,dropbox.com,force-remote-dns
+DOMAIN-SUFFIX,dropboxusercontent.com,force-remote-dns
+
+# >> Facebook
+DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
+DOMAIN-SUFFIX,fb.me,force-remote-dns
+DOMAIN-SUFFIX,fbcdn.net,force-remote-dns
+DOMAIN-SUFFIX,instagram.com,force-remote-dns
+DOMAIN-SUFFIX,messenger.com,force-remote-dns
+DOMAIN-SUFFIX,oculus.com,force-remote-dns
+DOMAIN-SUFFIX,oculuscdn.com,force-remote-dns
+DOMAIN-KEYWORD,facebook,force-remote-dns
+
+# >> Twitter
+DOMAIN-SUFFIX,t.co,force-remote-dns
+DOMAIN-SUFFIX,twimg.co,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,force-remote-dns
+DOMAIN-SUFFIX,twitpic.com,force-remote-dns
+DOMAIN-SUFFIX,twitter.com,force-remote-dns
