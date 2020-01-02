@@ -1,0 +1,10 @@
+# --- VOIP List ---
+
+
+DOMAIN-SUFFIX,whatsapp.com,force-remote-dns
+DOMAIN-SUFFIX,whatsapp.net,force-remote-dns
+DOMAIN-SUFFIX,mobilevoip.com,force-remote-dns
+DOMAIN-SUFFIX,12voip.com,force-remote-dns
+DOMAIN-SUFFIX,voipbuster.com,force-remote-dns
+
+IP-CIDR,77.177.168.0/22,no-resolve
