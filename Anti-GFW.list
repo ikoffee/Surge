@@ -1,14 +1,4 @@
 # --- Enhanced Anti-GFW ---
-# >> rixCloud
-DOMAIN-SUFFIX,rix.ee,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.com,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.us,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.io,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.app,force-remote-dns
-DOMAIN-SUFFIX,rixcloud.ee,force-remote-dns
-DOMAIN,analytics.rixcloud.app,DIRECT
-
-
 # >> Line
 DOMAIN-SUFFIX,line.me,force-remote-dns
 DOMAIN-SUFFIX,line-apps.com,force-remote-dns
