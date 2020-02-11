@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,hockeyapp.net
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
@@ -17,6 +18,7 @@ DOMAIN-SUFFIX,microsoftonline.com
 DOMAIN-SUFFIX,microsoftstream.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,office365.com
@@ -25,12 +27,13 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
-DOMAIN,officecdn-microsoft-com.akamaized.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,outlookmobile.com
 DOMAIN-SUFFIX,pushp.svc.ms
 DOMAIN-SUFFIX,skypeforbusiness.com
 DOMAIN-SUFFIX,staffhub.ms
+DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,svc.ms
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,windows.com
