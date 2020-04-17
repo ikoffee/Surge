@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,line-apps.com,force-remote-dns
 DOMAIN-SUFFIX,line-scdn.net,force-remote-dns
 DOMAIN-SUFFIX,naver.jp,force-remote-dns
 # >> Other
+
 DOMAIN-SUFFIX,abc.net.au,force-remote-dns
 DOMAIN-SUFFIX,amazon.co.jp,force-remote-dns
 DOMAIN-SUFFIX,apk-dl.com,force-remote-dns
@@ -16,6 +17,7 @@ DOMAIN-SUFFIX,behance.net,force-remote-dns
 DOMAIN-SUFFIX,bibox.com,force-remote-dns
 DOMAIN-SUFFIX,binance.com,force-remote-dns
 DOMAIN-SUFFIX,bitfinex.com,force-remote-dns
+DOMAIN-SUFFIX,boxun.com,force-remote-dns
 DOMAIN-SUFFIX,booklive.jp,force-remote-dns
 DOMAIN-SUFFIX,bwh1.net,force-remote-dns
 DOMAIN-SUFFIX,cbc.ca,force-remote-dns
