@@ -67,4 +67,6 @@ USER-AGENT,Spotify*
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,spotifycdn.net
 # --- End of Stream Service Section ---
