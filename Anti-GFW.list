@@ -333,7 +333,6 @@ DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,nytimg.com
 DOMAIN-SUFFIX,nytstyle.com
-DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,omnigroup.com
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,ooyala.com
@@ -674,6 +673,24 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 IP-CIDR,173.194.0.0/16,no-resolve
 IP-CIDR,74.125.0.0/16,no-resolve
+
+# > Amazon
+IP-CIDR,13.32.0.0/16,no-resolve
+IP-CIDR,13.33.0.0/16,no-resolve
+IP-CIDR,13.35.0.0/17,no-resolve
+IP-CIDR,18.184.0.0/15,no-resolve
+IP-CIDR,18.194.0.0/15,no-resolve
+IP-CIDR,18.208.0.0/13,no-resolve
+IP-CIDR,18.232.0.0/14,no-resolve
+IP-CIDR,52.200.0.0/13,no-resolve
+IP-CIDR,52.58.0.0/15,no-resolve
+IP-CIDR,52.74.0.0/16,no-resolve
+IP-CIDR,52.77.0.0/16,no-resolve
+IP-CIDR,52.84.0.0/15,no-resolve
+IP-CIDR,54.156.0.0/14,no-resolve
+IP-CIDR,54.226.0.0/15,no-resolve
+IP-CIDR,54.230.156.0/22,no-resolve
+IP-CIDR,54.93.0.0/16,no-resolve
 
 # > SoftLayer
 IP-CIDR,74.86.0.0/16,no-resolve
