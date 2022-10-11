@@ -1,17 +1,10 @@
-# --- VOIP List ---
+# >> VOIP List
 DOMAIN-SUFFIX,whatsapp.com,force-remote-dns
 DOMAIN-SUFFIX,whatsapp.net,force-remote-dns
 DOMAIN-SUFFIX,mobilevoip.com,force-remote-dns
 DOMAIN-SUFFIX,12voip.com,force-remote-dns
 DOMAIN-SUFFIX,voipbuster.com,force-remote-dns
 IP-CIDR,77.177.168.0/24,no-resolve
-
-# Resilio Sync
-DOMAIN-SUFFIX,resilio.com
-IP-CIDR,66.206.5.74/32,no-resolve
-IP-CIDR,66.165.255.194/32,no-resolve
-IP-CIDR,66.165.233.194/32,no-resolve
-IP-CIDR,23.111.157.86/32,no-resolve
 
 # >> Telegram
 DOMAIN-SUFFIX,t.me
@@ -26,24 +19,6 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23d::/48,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
-
-# > Amazon
-IP-CIDR,13.32.0.0/16,no-resolve
-IP-CIDR,13.33.0.0/16,no-resolve
-IP-CIDR,13.35.0.0/17,no-resolve
-IP-CIDR,18.184.0.0/15,no-resolve
-IP-CIDR,18.194.0.0/15,no-resolve
-IP-CIDR,18.208.0.0/13,no-resolve
-IP-CIDR,18.232.0.0/14,no-resolve
-IP-CIDR,52.200.0.0/13,no-resolve
-IP-CIDR,52.58.0.0/15,no-resolve
-IP-CIDR,52.74.0.0/16,no-resolve
-IP-CIDR,52.77.0.0/16,no-resolve
-IP-CIDR,52.84.0.0/15,no-resolve
-IP-CIDR,54.156.0.0/14,no-resolve
-IP-CIDR,54.226.0.0/15,no-resolve
-IP-CIDR,54.230.156.0/22,no-resolve
-IP-CIDR,54.93.0.0/16,no-resolve
 
 # > Kakao Talk
 IP-CIDR,1.201.0.0/24,no-resolve
