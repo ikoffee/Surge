@@ -2,7 +2,10 @@
 
 DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,imgix.net
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bing.net
@@ -27,7 +30,8 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,onenote.net
-DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,openai.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,outlookmobile.com
 DOMAIN-SUFFIX,pushp.svc.ms
