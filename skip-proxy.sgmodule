@@ -3,6 +3,7 @@
 
 [Rule]
 DOMAIN,msmp.abchina.com.cn,REJECT
+DOMAIN,getui.com,REJECT
 
 [General]
 skip-proxy = %APPEND% www.baidu.com,yunbusiness.ccb.com,wxh.wo.cn,gate.lagou.com,www.abchina.com.cn,www.shanbay.com,login-service.mobile-bank.psbc.com,mobile-bank.psbc.com,id6.me,getui.com
